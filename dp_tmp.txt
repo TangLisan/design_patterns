@@ -12,6 +12,8 @@
 
 tls test git 1
 
+tls test git 2
+
 时序图
 --------------------
 .. image:: /_static/seq_SimpleFactory.jpg
